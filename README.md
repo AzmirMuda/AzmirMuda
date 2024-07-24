@@ -1,4 +1,12 @@
 <img align="center" alt="Coding" width="1200" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
+</p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AzmirMuda&label=Profile%20views&color=0e75b6&style=flat" alt="AzmirMuda" /> </p> -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AzmirMuda&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=M%20j%5B%2C%20Y%5D&theme=chartreuse-dark">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzmirMuda&theme=chartreuse-dark&layout=compact">
+</p>
 <h1 align="center">Hi 👋, I'm Azmir</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
