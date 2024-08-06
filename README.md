@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzmirMuda&theme=chartreuse-dark&layout=compact">
 </p>
-<h1 align="center">Hi 👋, I'm Azmir</h1>
+<h1 align="center">Hi 👋,I'm Azmir</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
 
