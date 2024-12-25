@@ -3,7 +3,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AzmirMuda&label=Profile%20views&color=0e75b6&style=flat" alt="AzmirMuda" /> </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzmirMuda&theme=chartreuse-dark&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mekukz&theme=chartreuse-dark&layout=compact">
 </p>
 <h1 align="center">Hi👋, I'm Azmir</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
